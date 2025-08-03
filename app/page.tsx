@@ -152,7 +152,7 @@ export default function Home(){
         </p>
         <p className="text-center font-bold text-4xl">Learn how to fulfill your needs</p>
         <p className="text-center text-xl text-gray-500 py-7">
-          This section is to highlight a promo or demo video of your product.<br/>Analysts says a landing page with video has 3% more conversion rate.<br/>So, don't forget to add one. Just like this.
+          This section is to highlight a promo or demo video of your product.<br/>Analysts says a landing page with video has 3% more conversion rate.<br/>So, don&apos;t forget to add one. Just like this.
         </p>
         <div className="flex justify-center items-center">
           <div className="flex justify-center items-center w-[75%] h-[500px] bg-gradient-to-b from-purple-900 to-pink-500 rounded-2xl overflow-hidden hover:cursor-pointer">
@@ -177,7 +177,7 @@ export default function Home(){
         <p className="uppercase text-md font-semibold text-[#4f46e5] text-center py-10">
           Testimonials
         </p>
-        <p className="text-center font-bold text-4xl">Here's what our customers said</p>
+        <p className="text-center font-bold text-4xl">Here&apos;s what our customers said</p>
         <p className="text-center text-xl text-gray-500 py-7">
           Testimonials is a great way to increase the brand trust and awareness.<br/>Use this section to highlight your popular customers.
         </p>
@@ -209,7 +209,7 @@ export default function Home(){
           </div>
           <div className={`${isLightTheme?'bg-[#f3f4f6]':'bg-[#262626]'} flex flex-col justify-between p-[56px] rounded-2xl space-y-15`}>
             <p className="text-2xl">
-              This is an <span className="bg-[#e0e7ff] text-indigo-500 rounded-xl p-1">awesome</span><br/>landing page template<br/>I've seen. I would use<br/>this for anything.
+              This is an <span className="bg-[#e0e7ff] text-indigo-500 rounded-xl p-1">awesome</span><br/>landing page template<br/>I&apos;ve seen. I would use<br/>this for anything.
             </p>
             <div className="flex justify-start align-bottom space-x-2">
               <Image src="/img/user3.jpg" alt="user3" width={50} height={40} className="rounded-tl-full"/>
@@ -261,7 +261,7 @@ export default function Home(){
           <div className={"bg-[#4f46e5] px-[5%] py-[5%] flex justify-between rounded-xl text-white"}>
             <div className={"space-y-2"}>
               <p className={"text-3xl font-medium"}>Ready to try-out this template?</p>
-              <p className={"text-lg font-medium"}>Don't let your visitor see your poor landing.</p>
+              <p className={"text-lg font-medium"}>Don&apos;t let your visitor see your poor landing.</p>
             </div>
             <button className={"bg-white text-[#4f46e5] px-12 py-3 rounded-lg font-medium text-lg"}>
               <span>Download for Free</span>
