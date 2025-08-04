@@ -41,6 +41,8 @@ export default function Home(){
     }));
   };
 
+  // @ts-ignore
+  // @ts-ignore
   return(
       <section className={"p-8 mx-auto"}>
         <div className={"flex justify-between items-center p-5 xl:p-0"}>
@@ -158,7 +160,7 @@ export default function Home(){
           <div className="flex justify-center items-center w-[75%] h-[500px] bg-gradient-to-b from-purple-900 to-pink-500 rounded-2xl overflow-hidden hover:cursor-pointer">
             {isPlaying ? (
                 <ReactPlayer
-                    url="https://youtu.be/Zq5fmkH0T78?si=UIIVMnvJHFUzmZg-"
+                    // url="https://yourvideo.mp4" you can put any of your url
                     controls
                     playing
                     width="100%"
